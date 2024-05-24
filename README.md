@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghoshsaikat2024 a data science enthusiast.
+- 👋 Hi, I’m Saikat Kumar Ghosh a Data science enthusiast.
 - 👀 I’m interested in Data Science,Machine Learning,Computer Vision.
 - 🌱 I’m currently learning Data Science .
 - 💞️ I’m looking to collaborate on ...
