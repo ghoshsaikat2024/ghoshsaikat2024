@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://komarev.com/ghpvc/?username=ghoshsaikat2024
+![Visitor Count](https://profile-counter.glitch.me/{ghoshsaikat2024}/count.svg)
+
 
 <!---
 ghoshsaikat2024/ghoshsaikat2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
