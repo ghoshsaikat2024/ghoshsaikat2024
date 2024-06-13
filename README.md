@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Visitor Count](https://profile-counter.glitch.me/{ghoshsaikat2024}/count.svg)
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ghoshsaikat2024&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <!---
