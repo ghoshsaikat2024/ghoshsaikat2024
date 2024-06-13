@@ -6,8 +6,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
 </div>
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=ghoshsaikat2024&style=flat-square&color=blue" alt=""/>
 </div>
