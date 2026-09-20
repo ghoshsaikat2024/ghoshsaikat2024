@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Saikat Kumar Ghosh a Data science enthusiast.
-- 👀 I’m interested in Data Science,Machine Learning,Computer Vision.
+- 👋 Hello 👋, I'm Saikat — a Data Scientist & AI Researcher from India 🇮🇳, adept in RAG & Agentic AI and currently exploring Multimodal Learning, Vision-Language-Action (VLA) Models, Robot Learning, and Computer Vision.
+- 👀 I’m interested in Machine Learning,Computer Vision, NLP, Robot Learning, Multimodal Understanding, Vision Language Action Models
 - 🌱 I’m currently learning Data Science .
 - 💞️ I’m looking to collaborate on Machine Learning,Computer Vision,NLP related projects.
 - 📫 How to reach me ...
